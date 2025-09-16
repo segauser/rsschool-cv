@@ -39,3 +39,48 @@ I'm a purposeful and highly motivated person who quickly adapts to new condition
 - I'm always open to new experiences
 
 ---
+
+### Code example:
+
+*Classic Bubble sort alghorithm on JS:*
+
+```javascript
+// BubbleSort O(n*n)
+  const arr = [
+    3, 0, 2, 5, 6, 8, 1, 9, 4, 2, 1, 2, 9, 6, 4, 1, 7, -1, -5, 23, 6, 2, 35, 6,
+    3, 32,
+  ];
+  let count = 0;
+  function bubbleSort(arr) {
+    const n = arr.length;
+    for (let i = 0; i < n - 1; i++) {
+      for (let j = 0; j < n - 1 - i; j++) {
+        if (arr[j + 1] < arr[j]) {
+          let t = arr[j + 1];
+          arr[j + 1] = arr[j];
+          arr[j] = t;
+        }
+        count += 1;
+      }
+    }
+    return arr;
+  }
+  console.log("result:", bubbleSort(arr));
+  console.log("legth:", arr.length);
+  console.log("count of iteration:", count)
+```
+---
+
+### Courses:
+
+- Course QA Automation Tester on Python [SkillFactory](https://skillfactory.ru/)  
+![skillfactory.ru](aqa-certificate.png)
+- SQL and Python basic course [Stepik](https://stepik.org)  
+![stepik.org](sql-python.png)
+
+---
+
+### Languages:
+
+- English \- Pre-Intermediate
+- Russian \- Native
