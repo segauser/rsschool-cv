@@ -5,9 +5,9 @@
 
 ### Contact information:
 
-**Phone:** +375(29)802-99-06
-**E-mail:** kovalchuksiargey@gmail.com
-**Telegram:** @sergiokavalli
+**Phone:** +375(29)802-99-06  
+**E-mail:** kovalchuksiargey@gmail.com  
+**Telegram:** @sergiokavalli  
 [LinkedIn](https://www.linkedin.com/in/sergey-kovalchuk/)
 
 ---
